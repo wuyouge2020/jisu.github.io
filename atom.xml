@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://jisu.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-18T01:38:29.722Z</updated>
+    <updated>2020-05-18T01:43:21.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://jisu.github.io"/>
     <link rel="self" href="https://jisu.github.io/atom.xml"/>
@@ -10,6 +10,32 @@
     <logo>https://jisu.github.io/images/avatar.png</logo>
     <icon>https://jisu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[空间使用前必读]]></title>
+        <id>https://jisu.github.io/post/EoIN-4vhd/</id>
+        <link href="https://jisu.github.io/post/EoIN-4vhd/">
+        </link>
+        <updated>2020-05-18T01:41:52.000Z</updated>
+        <content type="html"><![CDATA[<p>😃感谢您购买我们的空间！ 您的账户已经创建，以下是您账户的详细信息：</p>
+<p><img src="https://jisu.github.io/post-images/1589766137532.gif" alt="" loading="lazy"><br>
+以下内容请仔细阅读，包含很多常见问题和提示！！！</p>
+<p>😚【特别说明：我们目前在美国西海岸，东京，香港等地拥有10余台服务器，如果你对所在的服务器速度不满意，可以联系技术部门更换，包括跨地区更换（只需补差价）】</p>
+<p>在空间使用过程中有任何不满意，请大声的告诉我们，我们会尽力为你解决！</p>
+<p>套餐信息<br>
+主机方案： 香港2号 - 所在服务器代号：hk1(香港安讯)（请牢记，方便联系我们时提供信息）</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gridea 提供了将博客部署到 GitHub Pages]]></title>
+        <id>https://jisu.github.io/post/mm8WxpMXZ/</id>
+        <link href="https://jisu.github.io/post/mm8WxpMXZ/">
+        </link>
+        <updated>2020-05-18T01:41:08.000Z</updated>
+        <content type="html"><![CDATA[<p>Gridea 提供了将博客部署到 GitHub Pages、Coding Pages 和通过 SFTP 的方式上传到自己的服务器的功能。下面将以 GitHub 为例，来讲一下部署流程。</p>
+<figure data-type="image" tabindex="1"><img src="https://jisu.github.io/post-images/1589765423913.jpg" alt="" loading="lazy"></figure>
+<p>创建 GitHub 账号，并创建一个仓库 Token。点击GitHub，进行注册。登录 GitHub 之后，点击这里创建一个 Token，勾选上 repo 的相关权限即可。生成之后记得把 Token 复制到你的本地，因为一旦关闭网页将不能再看到它。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[创建仓库，存放构建后的网站文件]]></title>
         <id>https://jisu.github.io/post/c5RdBP49z/</id>
@@ -19,17 +45,6 @@
         <content type="html"><![CDATA[<p>创建仓库，存放构建后的网站文件。创建一个公开仓库，名为用户名.github.io。（将用户名替换为你的 GitHub 用户名）<br>
 <img src="https://jisu.github.io/post-images/1589765412859.jpg" alt="" loading="lazy"></p>
 <p>进入 Gridea 进行远程设置。按照下图的示例进行设置，然后点击「检测远程链接」，进行配置检查。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[欢迎开始愉快的 Gridea 之旅呀～]]></title>
-        <id>https://jisu.github.io/post/huan-ying-kai-shi-yu-kuai-de-gridea-zhi-lu-ya-~/</id>
-        <link href="https://jisu.github.io/post/huan-ying-kai-shi-yu-kuai-de-gridea-zhi-lu-ya-~/">
-        </link>
-        <updated>2020-05-18T01:27:55.000Z</updated>
-        <content type="html"><![CDATA[<p>Gridea 提供了将博客部署到 GitHub Pages、Coding Pages 和通过 SFTP 的方式上传到自己的服务器的功能。下面将以 GitHub 为例，来讲一下部署流程。</p>
-<p><img src="https://jisu.github.io/post-images/1589765423913.jpg" alt="" loading="lazy"><br>
-创建 GitHub 账号，并创建一个仓库 Token。点击GitHub，进行注册。登录 GitHub 之后，点击这里创建一个 Token，勾选上 repo 的相关权限即可。生成之后记得把 Token 复制到你的本地，因为一旦关闭网页将不能再看到它。</p>
 ]]></content>
     </entry>
     <entry>
